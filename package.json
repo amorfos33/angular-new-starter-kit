@@ -1,9 +1,9 @@
 {
-  "name": "angular-new-starter-kit",
+  "name": "angular-starter-kit",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --open",
+    "start": "ng serve",
     "start:prod": "npm run build:prod && npm run server",
     "build": "ng build",
     "build:prod": "ng build --configuration production",

@@ -1,4 +1,4 @@
-# angular-new-starter-kit
+# angular-starter-kit
 This is an angular project starts kit based on the newest features started from v17
 
 ## Development server

@@ -21,7 +21,7 @@ yarn-error.log
 *.sublime-workspace
 
 # Visual Studio Code
-angular-new-starter-kit/.vscode/tasks.json
+angular-starter-kit/.vscode/tasks.json
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
