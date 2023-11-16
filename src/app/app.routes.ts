@@ -3,6 +3,7 @@ import {HomeComponent} from "./components/home/home.component";
 import {AboutComponent} from "./components/about/about.component";
 import {ContactsComponent} from "./components/contacts/contacts.component";
 import {NotFoundPageComponent} from "./components/not-found-page/not-found-page.component";
+import {PostComponent} from "./components/post/post.component";
 
 export const routes: Routes = [
   {
@@ -21,6 +22,10 @@ export const routes: Routes = [
   {
     path: "contact",
     component: ContactsComponent
+  },
+  {
+    path: "post/:id",
+    component: PostComponent
   },
   {
     path: "**",
